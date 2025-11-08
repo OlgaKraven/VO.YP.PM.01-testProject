@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Иванов Иван",
+    "Group": "ИС-23",
+    "AverageGrade": 4.5
+  },
+  {
+    "Id": 2,
+    "FullName": "Петров Пётр",
+    "Group": "ИС-23",
+    "AverageGrade": 3.9
+  }
+]
